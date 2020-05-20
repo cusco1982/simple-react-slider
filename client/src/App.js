@@ -1,11 +1,14 @@
 import React from "react";
+import Slider from "./components/Slider";
+
 
 
 function App() {
   return (
     <div>
-      Hello World.
-      
+
+      <Slider />
+
     </div>
   );
 }
