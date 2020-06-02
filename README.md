@@ -2,4 +2,4 @@
 
 -Fullscreen Slider
 
--Gallery added
+-onclick Gallery added
